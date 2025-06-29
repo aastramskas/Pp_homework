@@ -1,6 +1,6 @@
 # Podbase Application overview
 
-In it's current state I highly disagree that this application is ready to be deployed to the final user. All three modules has a lot of issues.
+In its current state I highly disagree that this application is ready to be deployed to the final user. All three modules has a lot of issues.
 
 1. All `GET` endpoints have issues with data filtering, there is no way to filter information depending on parameters (`status`, `dealerId`, `manufacturerId`, `model`). These problems will be a headache for end user when trying to view information in frontend application.
 
